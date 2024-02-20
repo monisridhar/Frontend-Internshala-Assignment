@@ -7,7 +7,6 @@
 #part1 header{
     height:140px;
     width:100%;
-    /* border:2px solid red; */
     background-color: white;
     display: flex;
     justify-content: space-evenly;
@@ -20,7 +19,6 @@
 #part1 header main{
     height:inherit;
     width:95%;
-    /* border: 2px solid orangered; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -31,7 +29,6 @@
 #part1 header main .hyperlinks1{
     height:inherit;
     width:400px;
-    /* border:2px solid green; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -41,7 +38,6 @@
     
 }
 #part1 header main .hyperlinks1 ul{
-    /* border:2px solid red; */
     height: inherit;
     width:300px;
     list-style: none;
@@ -68,7 +64,6 @@
 #part1 header main .hyperlinks2{
     height:inherit;
     width:300px;
-    /* border:2px solid green; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -91,7 +86,6 @@
 #part1 header main .hyerlinks3{
     height:inherit;
     width:400px;
-    /* border:2px solid green; */
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -104,7 +98,6 @@
 #part1 header main .hyerlinks3 .nav{
     height:inherit;
     width:200px;
-    /* border:2px solid green; */
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -123,7 +116,6 @@
 #part1 header main .hyerlinks3 button{
     height:40px;
     width:130px;
-    /* border:2px solid green; */
     margin:0px 30px 0px 0px;
     font-family:'Josefin Sans', sans-serif;
     font-size: 14px; 
@@ -144,7 +136,6 @@
 
 #part1 #image #myVideo{
     height: 150vh;
-    /* background-image: url(/Images/image2.jpg); */
     background-size: 100% 500px;
     background-repeat: no-repeat;
     background-attachment: fixed;  
@@ -154,7 +145,6 @@
 #part1 #image div{
     height:200px;
     width:700px;
-    /* border:2px solid red; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -170,13 +160,11 @@
 #part2{
     height:120vh;
     width:100%;
-    /* border:2px solid red; */
     background-color: #f5f5f5;
 }
 #part2 .div3{
     height:480px;
     width:600px;
-    /* border: 2px solid red; */
     margin:-620px 0px 0px 550px;
     position: absolute;
     z-index: 4;
@@ -190,7 +178,6 @@
 #part2 .div4{
     height: inherit;
     width:50%;
-    /* border:2px solid green; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -200,7 +187,6 @@
 #part2 .div4 aside{
     height:490px;
     width:470px;
-    /* border:2px solid orangered; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -250,14 +236,12 @@
 #part3{
     height:120vh;
     width:100%;
-    /* border:2px solid red; */
 }
 
 #part3 .div1{
     height: inherit;
     width:50%;
-    /* border:2px solid green; */
-    background-image: url(/Images/wedding.jpg);
+    background-image: url(Images/wedding.jpg);
     background-size: 540px 550px;
     background-repeat: no-repeat;
     background-position: center;
@@ -266,20 +250,17 @@
 #part3 .div2{
     height: inherit;
     width:50%;
-    /* border:2px solid green; */
     margin: -703px 0px 0px 615px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* position: absolute; */
 
 }
 
 #part3 .div2 aside{
     height:530px;
     width:470px;
-    /* border:2px solid green; */
     display: flex;
     flex-direction: column;
     font-size: 20px;
@@ -298,32 +279,27 @@
     color:#a1aab0;
     display: flex;
     flex-direction: row;
-    /* border:2px solid blue; */
 }
 #part3 .div2 aside #para .head{
     height:160px;
     width:180px;
-    /* border:2px solid blue; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 #part3 .div2 aside #para .head #headsub{
-    /* border:2px solid blue; */
     color: #1a4122;
     font-size: 20px;
 }
 #part3 .div2 aside #para .sub{
     height:160px;
     width:320px;
-    /* border:2px solid blue; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
 #part3 .div2 aside #para .sub #subsub{
-    /* border:2px solid blue; */
     color: #1a4122;
     font-size: 20px;
 }
@@ -350,7 +326,6 @@
 
 
 #part4 div{
-    /* border:2px solid red; */
     height:500px;
     width:500px;
     border-radius: 60%;
@@ -362,7 +337,6 @@
 
 
 #part4 .venues{
-    /* border:2px solid red; */
     height:400px;
     width:550px;
     position: absolute;
@@ -404,20 +378,16 @@
 }
 
  #part5{
-    /* border:2px solid red; */
     height:600px;
     width:100%;
     margin:470px 0px 0px 0px;
 } 
 #part5 .image2{
     display: flex;
-    /* flex-wrap: wrap; */
     overflow: hidden;
-   
 }  
 
 #part6 {
-    /* border:2px solid red; */
     height:330px;
     width:100%;
     margin:110px 0px 0px 0px;
@@ -430,7 +400,6 @@
 #part6 .division{
     height:inherit;
     width:75%;
-    /* border: 2px solid green; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -452,7 +421,6 @@
 }
 
 #part7{
-    /* border:2px solid red; */
     height:570px;
     width:100%;
     margin:150px 0px 0px 0px;
@@ -461,7 +429,6 @@
 
 
 #part8{
-    /* border:2px solid red; */
     height:330px;
     width:100%;
     display: flex;
@@ -474,7 +441,6 @@
 #part8 div{
     height:inherit;
     width:80%;
-    /* border:2px solid red; */
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -509,12 +475,10 @@
 #part9{
     height:100vh;
     width:100%;
-    /* border:2px solid red; */
     margin:180px 0px 0px 0px;
 }
 
 #part9 .sec1{
-    /* border:2px solid green; */
     height:230px;
     width:300px;
     margin:40px 0px 0px 40px;
@@ -550,7 +514,6 @@
 }
 
 #part9 .sec2{
-    /* border:2px solid green; */
     height:230px;
     width:300px;
     margin:30px 40px 0px 40px;
@@ -588,7 +551,6 @@
 #part9 aside{
     height:inherit;
     width:480px;
-    /* border:2px solid red; */
     margin:-532px 389px;
 }
 
@@ -598,7 +560,6 @@
 }
 
 #part9 .sec3{
-    /* border:2px solid green; */
     height:230px;
     width:300px;
     margin:-559px  0px 30px 923px;
@@ -634,7 +595,6 @@
 }
 
 #part9 .sec4{
-    /* border:2px solid green; */
     height:230px;
     width:300px;
     margin:41px 0px 0px 924px;
@@ -673,7 +633,6 @@
 #part10{
     height:230vh;
     width:100%;
-    /* border:2px solid red; */
     margin:180px 0px 0px 0px;
     background-color:#1a4122 ;
     display: flex;
@@ -689,7 +648,6 @@
 #part10 div{
 height:150px;
 width:60%;
-/* border:2px solid yellow; */
 margin:40px 0px;
 display: flex;
 flex-direction: column;
@@ -713,19 +671,16 @@ justify-content: space-between;
 #part10 .testimonal{
     height:500px;
     width:85%;
-    /* border:2px solid yellow; */
 }
 
 #part10 .testimonal .serve{
     height:550px;
     width:500px;
-    /* border:2px solid yellow; */
     margin:-40px 0px 0px 0px;
 }
 #part10 .testimonal .test .desc{
     width:520px;
     height:600px;
-    /* border:2px solid yellow; */
     margin:-360px 0px 0px 591px;
 }
 
@@ -753,7 +708,6 @@ justify-content: space-between;
 #part11{
     height:150vh;
     width:100%;
-    /* border:2px solid yellow; */
     position: absolute;
     z-index: 2;
     margin:-300px 0px 0px 0px;
@@ -769,7 +723,6 @@ justify-content: space-between;
 #part11 .side1{
     height:620px;
     width:640px;
-    /* border: 2px solid red; */
     margin:35px 0px 0px 50px;
     display: flex;
     flex-direction: column;
@@ -809,7 +762,6 @@ justify-content: space-between;
 #part11 .side2{
     height:620px;
     width:460px;
-    /* border: 2px solid red; */
     margin:-600px 0px 0px 762px;
     display: flex;
     flex-direction: column;
@@ -856,14 +808,12 @@ justify-content: space-between;
 #part12{
     width:100%;
     height:100vh;
-    /* border:2px solid red; */
     margin:690px 0px 0px 0px;
 }
 
 #part12 .insta{
 height:480px;
 width:600px;
-/* border:2px solid green; */
 display: flex;
 justify-content: space-around;
 flex-direction: column;
@@ -884,7 +834,6 @@ flex-direction: column;
 #part12 .insta div p{
     height: 50px;
     width:150px;
-    /* border:2px solid red; */
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -894,7 +843,6 @@ flex-direction: column;
 #part12 .insta div aside{
     height: 50px;
     width:150px;
-    /* border:2px solid red; */
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -906,7 +854,6 @@ flex-direction: column;
 #part12 .insta2{
     height:480px;
     width:600px;
-    /* border:2px solid green; */
     margin:-480px 0px 0px 600px;
 }
 
@@ -922,7 +869,6 @@ flex-direction: column;
 #part12 .insta2 .rotate1{
     height:220px;
     width:220px;
-    /* border:2px solid red; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -934,7 +880,6 @@ flex-direction: column;
 #part12 .insta2 .rotate2{
     height:280px;
     width:220px;
-    /* border:2px solid red; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -946,7 +891,6 @@ flex-direction: column;
 #part12 .insta2 .rotate3{
     height:220px;
     width:220px;
-    /* border:2px solid red; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -958,13 +902,11 @@ flex-direction: column;
 #part13{
     height:80vh;
     width:100%;
-    /* border:2px solid red; */
     margin:110px 0px 0px 0px;
 }
 #part13 .signup1{
     width:50%;
     height: inherit;
-    /* border:2px solid green; */
     background-color: #c15627;
     display: flex;
     text-align: center;
@@ -975,7 +917,6 @@ flex-direction: column;
 #part13 .signup1 div{
 height:360px;
 width:80%;
-/* border:2px solid red; */
 display: flex;
 flex-direction: column;
 justify-content: space-between;
@@ -1024,22 +965,18 @@ text-align:start;
 #part13 .signup2{
     width:50%;
     height: inherit;
-    /* border:2px solid green; */
     margin:-480px 0px 0px 630px;
 }
 
 #part14{
     width:100%;
     height: 100vh;
-    /* border:2px solid red; */
-    /* margin:110px 0px 0px 0px; */
     background-color: #e9e4e0;
 }
 
 #part14 .intro{
     width:430px;
     height:400px;
-    /* border:2px solid green; */
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -1049,7 +986,6 @@ text-align:start;
 #part14 .intro .head{
     width:inherit;
     height:300px;
-    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -1071,28 +1007,23 @@ text-align:start;
 #part14 .intro .head2{
     width:inherit;
     height:300px;
-    /* border: 2px solid red; */
     margin:30px 0px 0px 0px;
 }
 
 #part14 .intro .head2 .con1{
     height:150px;
     width:120px;
-    /* border:2px solid green; */
-    
 }
 
 #part14 .intro .head2 .con2{
     height:150px;
     width:310px;
-    /* border:2px solid green; */
     margin:-150px 0px 0px 120px;
 }
 
 #part14 .about{
     width:800px;
     height:406px;
-    /* border:2px solid green; */
     margin:-402px 0px 0px 430px;
     display: flex;
     justify-content: space-between;
@@ -1103,7 +1034,6 @@ text-align:start;
 #part14 .about .about1{
     height:280px;
     width:180px;
-    /* border:2px solid red; */
 }
 
 #part14 .about .about1 p{
@@ -1112,7 +1042,6 @@ text-align:start;
 #part14 .about .services{
     height:280px;
     width:180px;
-    /* border:2px solid red; */
 }
 
 #part14 .about .services p{
@@ -1122,7 +1051,6 @@ text-align:start;
 #part14 .about .events{
     height:280px;
     width:180px;
-    /* border:2px solid red; */
 }
 
 #part14 .about .events p{
@@ -1131,14 +1059,12 @@ text-align:start;
 #part14 .about .contact{
     height:280px;
     width:180px;
-    /* border:2px solid red; */
     font-size: 23px;
 }
 
 #part14 .about .follow{
     height:280px;
     width:180px;
-    /* border:2px solid red; */
 }
 
 #part14 .about .follow p{
@@ -1158,7 +1084,6 @@ text-align:start;
 #part14 .footer{
     width:98%;
     height:100px;
-    /* border:2px solid green; */
     display: flex;
     align-items: end;
     justify-content: space-between;
